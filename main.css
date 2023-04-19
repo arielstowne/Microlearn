@@ -6,7 +6,7 @@ html,body{
     padding: 0;
 }
 body {
-    background-image: url(../images/blue-gloss-background-blur.png);
+    background-image: url(images/blue-gloss-background-blur.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
