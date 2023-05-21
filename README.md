@@ -1,4 +1,4 @@
-# Microlearn
+# µlearn
 
 µlearn will be a website and app that utilizes the MediaWiki Action API to provide daily articles in Wikipedia categories that the user is interested in.
 
